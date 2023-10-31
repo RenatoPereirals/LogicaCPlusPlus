@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683747972 source:c:\temp\ws-code_block\liguagagem c++\aumento\main.cpp
+	<iostream>
+	<iomanip>
+

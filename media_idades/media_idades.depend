@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683753232 source:c:\temp\ws-code_block\liguagagem c++\media_idades\main.cpp
+	<iostream>
+	<iomanip>
+

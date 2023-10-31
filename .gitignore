@@ -1,0 +1,22 @@
+# Arquivos de saída do compilador
+*.o
+*.out
+*.exe
+
+# Arquivos gerados pelo CMake
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+Testing/
+
+# Arquivos de compilação gerados por Visual Studio
+.vscode/
+*.sdf
+*.suo
+*.user
+*.sln.docstates
+
+# Arquivos do Xcode
+.xcodeproj/
+.DS_Store
+*/build/

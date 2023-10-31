@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683689786 source:c:\temp\ws-code_block\liguagagem c++\pagamento\main.cpp
+	<iostream>
+	<iomanip>
+

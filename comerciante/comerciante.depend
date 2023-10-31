@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683853859 source:c:\temp\ws-code_block\liguagagem c++\comerciante\main.cpp
+	<iostream>
+	<iomanip>
+	<climits>
+

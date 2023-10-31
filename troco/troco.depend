@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683689038 source:c:\temp\ws-code_block\liguagagem c++\troco\main.cpp
+	<iostream>
+	<iomanip>
+

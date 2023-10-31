@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683865427 source:c:\temp\ws-code_block\liguagagem c++\matriz_geral\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+

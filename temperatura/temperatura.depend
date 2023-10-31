@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683742835 source:c:\temp\ws-code_block\liguagagem c++\temperatura\main.cpp
+	<iostream>
+	<iomanip>
+

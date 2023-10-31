@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683687339 source:c:\temp\ws-code_block\liguagagem c++\retangulo\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+
